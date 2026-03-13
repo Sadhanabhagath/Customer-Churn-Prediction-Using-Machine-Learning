@@ -1,4 +1,5 @@
 📊 Customer Churn Prediction Using Machine Learning (Logistic Regression)
+
 Customer churn prediction is an important problem for businesses that rely on long-term customer relationships, such as telecom, banking, and subscription-based services. Losing customers can significantly impact revenue, so identifying customers who are likely to leave allows companies to take proactive measures to retain them.
 
 This project focuses on predicting whether a customer will churn (leave the service) or remain with the company using Logistic Regression, a supervised machine learning algorithm used for binary classification problems.
