@@ -129,21 +129,16 @@ Model Evaluation
       ↓
 Prediction
 📁 Project Structure
-Customer-Churn-Prediction-Using-Machine-Learning
+Customer-Churn-Prediction
 │
-├── data
-│   └── Telco-Customer-Churn.csv
-│
-├── src
-│   └── churn_analysis.py
-│
-├── images
-│   ├── churn_distribution.png
-│   ├── confusion_matrix.png
-│   └── feature_importance.png
-│
+├── data/
+├── notebooks/
+├── src/
+├── models/
+├── images/
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
 
 Install dependencies:
 
@@ -170,7 +165,7 @@ Bhagath Sadhana
 Aspiring Data Analyst | Machine Learning Enthusiast
 
 GitHub:
-https://github.com/Sadhanabhagath
+https://github.com/Sadhanabhagath/Customer-Churn-Prediction-Using-Machine-Learning.git
 
 📜 License
 
